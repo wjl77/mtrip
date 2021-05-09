@@ -1,4 +1,5 @@
-## 個人獨立開發完成"牛旅網"，基于MVVM架構前後端完全分離，vue+django實現
+## 個人獨立開發完成"牛旅網"，基于MVVM架構，前後端完全分離，vue+django實現
+## 面向中國大陸市場，基於某一旅行社實際需求的DEMO版
 ## 歡迎體驗 http://103.215.82.137
 ## 移動端 截圖
 ![img1](https://github.com/wjl77/mtrip/blob/main/mtrip1.png)
