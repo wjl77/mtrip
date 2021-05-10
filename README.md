@@ -1,4 +1,4 @@
-## 個人獨立開發完成"牛旅網"，基于MVVM架構，前後端完全分離，vue+django實現
+## 個人獨立開發完成"牛旅網"，DEMO版，基于MVVM架構，前後端完全分離，vue+django實現
 ## 面向中國大陸市場，基於某一旅行社實際需求的DEMO版
 ## 文件說明 mtrip_bnd => django端，mtrip_fnd =>前端Vue(npm build版本，非src)
 ## 歡迎體驗 http://103.215.82.137
