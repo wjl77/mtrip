@@ -12,4 +12,4 @@
 ![img4](https://github.com/wjl77/mtrip/blob/main/code2_1.png)
 ![img5](https://github.com/wjl77/mtrip/blob/main/code2_2.png)
 #### 收藏列表 後端接口
-
+![img6](https://github.com/wjl77/mtrip/blob/main/code3_1.png)
