@@ -9,6 +9,6 @@
 #### 收藏/取消收藏/收藏人數 後端restful接口
 ![img3](https://github.com/wjl77/mtrip/blob/main/code1.png)
 #### 收藏/取消收藏/收藏人數 前端vue程式碼
-
-
+![img4](https://github.com/wjl77/mtrip/blob/main/code2_1.png)
+![img5](https://github.com/wjl77/mtrip/blob/main/code2_2.png)
 
