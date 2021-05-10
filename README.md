@@ -8,6 +8,7 @@
 ### 相關程式碼說明
 #### 收藏/取消收藏/收藏人數 後端restful接口
 ![img3](https://github.com/wjl77/mtrip/blob/main/code1.png)
+#### 收藏/取消收藏/收藏人數 前端vue程式碼
 
 
 
